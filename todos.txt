@@ -1,5 +1,4 @@
-clean yourr room
-write code
-car wash
-scooty wash
-study python
+car charge
+close gate
+study
+check cases
